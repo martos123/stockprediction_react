@@ -1,0 +1,28 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: rgba(0, 139, 139, 0.7);
+    min-height: 10vh;
+    box-shadow: 0px 2px 6px darkslategray;
+
+}
+.navbar h3{
+    flex:1;
+}
+.nav-list {
+    font-size: 1.2rem;
+    display: flex;
+    flex:2;
+    align-items: center;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+.nav-links {
+    color: black;
+    
+}
+.nav-links:hover, .nav-links:active {
+    color: darkturquoise;
+    text-decoration: none;
+}
