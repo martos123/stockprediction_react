@@ -12,3 +12,5 @@ Work in progress project, TODO: modell and the predicted data can be saved to da
 
 
 ![webpage](stockprediction/webpage.PNG)
+
+![small-webpage](stockprediction/small-webpage.PNG)
